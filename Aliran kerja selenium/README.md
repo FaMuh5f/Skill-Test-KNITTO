@@ -17,4 +17,4 @@ Untuk menjawab pertanyaan "6.	Gambarkan aliran kerja atau proses yang akan Anda 
 
 
 ## use of selenium
-Contoh pengunaan selenium dapat dilihat pada file "selenium.jav"
+Contoh pengunaan selenium dapat dilihat pada file "selenium.jav" yang dimana akan dilakukan pengujian pada https://www.selenium.dev/selenium/web/web-form.html dimana akan dimasukkan kata "selenium" pada salah satu text input dan menekan tombol submit ketika sudah dilakukan penginputan kata.
